@@ -12,4 +12,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:kursdotnet/kursdotnet.github.io.git production
+git push -f git@github.com:kursdotnet/kursdotnet.github.io.git master
+
+cd -
