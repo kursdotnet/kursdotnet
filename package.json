@@ -1,0 +1,19 @@
+{
+  "name": "kursdotnet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kursdotnet/kursdotnet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kursdotnet/kursdotnet/issues"
+  },
+  "homepage": "https://github.com/kursdotnet/kursdotnet#readme"
+}
